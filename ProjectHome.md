@@ -1,0 +1,1 @@
+The project extends the GWT TreeItem component, so that drag and drop could be used on the GWT tree component.
